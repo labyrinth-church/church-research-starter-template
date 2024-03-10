@@ -20,20 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "8d498f06ec25c163",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7f7c4bbde676986d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -163,11 +149,17 @@
   },
   "active": "e174eb0d07e4e975",
   "lastOpenFiles": [
-    "templates/church.md",
-    "articles",
+    "Pasted image 20240310080118.png",
+    "media",
+    "media/Screenshot from 2024-03-10 08-00-02.png",
     "README.md",
     "templates/default.md",
-    "templates/Untitled.md",
+    "templates/church.md",
+    "templates/school.md",
+    "templates/person.md",
+    "templates/event.md",
+    "db/Survivors Network of those Abused by Priests.md",
+    "articles",
     "db/structure of worship.md",
     "entities",
     "db",
