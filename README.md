@@ -1,5 +1,5 @@
 ---
-modified: 2024-03-10T08:10:54-07:00
+modified: 2024-03-10T08:12:20-07:00
 ---
 
 ## Introduction
@@ -128,4 +128,5 @@ Jesus used two metaphors that seem appropriate here: the metaphor of the yeast a
 
 Please take care of yourselves first. 
 
+![[Pasted image 20240310081210.png]]
 LNSY 2024-03-10 07:44
