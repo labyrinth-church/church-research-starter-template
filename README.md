@@ -1,5 +1,5 @@
 ---
-modified: 2024-03-10T08:31:54-07:00
+modified: 2024-03-10T08:57:10-07:00
 ---
 
 ## Introduction
@@ -35,23 +35,23 @@ I have laid it out with the best approximation of what we need to investigate th
 
 I will give you a warning from personal experience: working with these datasets can trigger massive PTSD responses. Please take care of yourself first. I recommend you download a specific browser / have a specific profile you use for research. If you don't do this Google search and other services will start recommending you articles and ads targeted to your trauma. These can hit at just the wrong time. It is important to compartmentalize your research for your own mental health. 
 
-Don't be scared to archive this notebook and put it away for a while. I do this over and over again -- sometimes I can't bear to work on the datasets. This fight will not be one by any single one of us but by many of us finding our own tiny strengths and healing ourselves. 
+Don't be scared to archive this notebook and put it away for a while. I do this over and over again -- sometimes I can't bear to work on the datasets. This fight will not be won by any single one of us but by many of us finding our own tiny strengths and healing ourselves. 
 
 The truth is patient, and will we waiting for us when we are strong enough to face it. **Take care of yourself first.**
 
 ## Some Resources
 
 If you need mental health help here are some resources:
-https://988lifeline.org/
-https://www.rainn.org/resources
-https://malesurvivor.org/
-https://www.snapnetwork.org/
+- https://988lifeline.org/
+- https://www.rainn.org/resources
+- https://malesurvivor.org/
+- https://www.snapnetwork.org/
 
 # Getting Started
 
 ## Obsidian
 
-First I recommend you download Obsidian.md and familiarize yourself with how it works. Their excellent tutorial can be found here: https://help.obsidian.md/Home.  You can also access their help document in Obsidian by typing **Ctrl-p** While you can edit this notebook with just a plain text editor of your choice, it is optimized to Obsidian
+First I recommend you download Obsidian.md and familiarize yourself with how it works. Their excellent tutorial can be found here: https://help.obsidian.md/Home.  You can also access their help document in Obsidian by typing **Ctrl-p** and then typing Help. While you can edit this notebook with just a plain text editor of your choice, it is optimized to Obsidian
 
 ## Install 
 
