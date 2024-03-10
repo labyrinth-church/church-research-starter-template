@@ -1,5 +1,5 @@
 ---
-modified: 2024-03-10T08:16:18-07:00
+modified: 2024-03-10T08:31:54-07:00
 ---
 
 ## Introduction
@@ -53,11 +53,20 @@ https://www.snapnetwork.org/
 
 First I recommend you download Obsidian.md and familiarize yourself with how it works. Their excellent tutorial can be found here: https://help.obsidian.md/Home.  You can also access their help document in Obsidian by typing **Ctrl-p** While you can edit this notebook with just a plain text editor of your choice, it is optimized to Obsidian
 
+## Install 
+
 First, download this repository. You can do it by clicking the green button on the upper right of the [github project](https://github.com/labyrinth-church/church-research-starter-template) and clicking on "Download Zip". If you are familiar with git (which is brilliant software that is confounding to even the most experienced engineers) you can clone the repository. 
+
+Unzip the folder you downloaded somewhere. 
 
 Then you can press the keys **Ctrl-P** on your keyboard and this will open up a context menu. Begin to type in the words "Open Another Vault". The option should appear in the menu. 
 
 The context menu is going to become your best friend. It has all sorts of commands that will speed up our research. In this notebook I have installed a few helper applications. 
+
+Select open Folder as vault. Select the folder we just downloaded. 
+
+Obsidian will give you a warning asking if you trust the user who generated the vault. I would say trust me, but you should be cautious about downloading software from the internet. 
+
 
 ### Links
 
