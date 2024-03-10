@@ -4,7 +4,7 @@ modified: 2024-03-10T06:17:08-07:00
 
 ## Introduction
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tm8Y7wzogZo?si=i005SI0x0dMhhG7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![Spotlight](https://www.youtube.com/embed/Tm8Y7wzogZo?si=i005SI0x0dMhhG7f)
 
 This moment in the 2015 movie Spotlight always moved me. [Phil J Saviano](https://en.wikipedia.org/wiki/Phil_Saviano), founder of SNAP storms into the Boston Globe offices with a box full of evidence. The box is warn -- he's been hauling it around for years, trying to get someone, anyone to believe him about he can see plain as day in front of him.
 
