@@ -1,12 +1,12 @@
 ---
-modified: 2024-03-10T08:12:20-07:00
+modified: 2024-03-10T08:16:18-07:00
 ---
 
 ## Introduction
 
 https://www.youtube.com/watch?v=Tm8Y7wzogZo
 
-This moment in the 2015 movie Spotlight always moved me. [Phil J Saviano](https://en.wikipedia.org/wiki/Phil_Saviano), founder of [[Survivors Network of those Abused by Priests|SNAP]] storms into the Boston Globe offices with a box full of evidence. The box is warn -- he's been hauling it around for years, trying to get someone, anyone to believe him about what he can see plain as day in front of him.
+This moment in the 2015 movie Spotlight always moved me. [Phil J Saviano](https://en.wikipedia.org/wiki/Phil_Saviano), founder of [[Survivors Network of those Abused by Priests|SNAP]] storms into the Boston Globe offices with a box full of evidence. The box is worn -- he's been hauling it around for years, trying to get someone, anyone to believe him about what he can see plain as day in front of him.
 
 He is harried and has given his spiel to people who don't believe him or don't care for years.
 
