@@ -100,7 +100,17 @@ For Chrome it can be found here: https://chromewebstore.google.com/detail/omnivo
 
 Then go to settings in the Obsidian note book -- press **Ctrl-P**, then type **Open Settings**. Navigate to the bottom of the left panel. Click on Omnivore. Follow the link on the first line that says https://omnivore.app/settings/api . Create an API Key and then copy and paste it into the field. 
 
-Now when you find a news article you find relevant you can click the Omnivore button on your plugins bar of your browser. If you navigate back to your
+Now when you find a news article you find relevant you can click the Omnivore button on your plugins bar of your browser. If you navigate back to your Obsidian notebook you can then press ctrl-p and begin typing Omnivore. Sync New Changes. 
+
+The next time you press the double square brackets
+
+```
+[[
+```
+
+the most recent articles you synced should appear. 
+
+This should speed up your research. 
 
 ## WikiData
 
