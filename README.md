@@ -1,8 +1,10 @@
 ---
-modified: 2024-03-10T08:57:53-07:00
+modified: 2024-03-10T09:01:37-07:00
 ---
 
+*Nota Bena: this document has been written to be read by Obsidian.md. Some formatting, like double square brackets that denote an internal link in that software will appear wrong on github.*
 ## Introduction
+
 
 https://www.youtube.com/watch?v=Tm8Y7wzogZo
 
@@ -67,15 +69,19 @@ Select open Folder as vault. Select the folder we just downloaded.
 
 Obsidian will give you a warning asking if you trust the user who generated the vault. I would say trust me, but you should be cautious about downloading software from the internet. 
 
-
 ### Links
 
-Obsidian helps us generate links between documents. The markup is quite simple -- it is two square bracket. The file doesn't need to exist for you to create the link. Check the Obsidian help documents for more information: https://help.obsidian.md/Linking+notes+and+files/Internal+links (either using the link above or pressing **ctrl-p** and then typing help). If a file exists it will appear in the search bar for the link. 
+Obsidian helps us generate links between documents. The markup is quite simple -- it is two square bracket like so:
+
+```
+[[File Id Here]]
+```
+
+The file doesn't need to exist for you to create the link. Check the Obsidian help documents for more information: https://help.obsidian.md/Linking+notes+and+files/Internal+links (either using the link above or pressing **ctrl-p** and then typing help). If a file exists it will appear in the search bar for the link. 
 
 A more advanced user can start to use aliases (https://help.obsidian.md/Linking+notes+and+files/Aliases) to help weave the links into more natural sounding prose. 
 
 ### Templates
-
 
 I have added some templates to this notebook. Templates give us a structure to our data with some defaults. To use a template go to the note you would like to change. You can do this by creating a link (as detailed above) or searching for a file using Ctrl-o to see if it exists, first. If the file does not exist it will give you the option of creating a new file. 
 
@@ -100,7 +106,7 @@ For Chrome it can be found here: https://chromewebstore.google.com/detail/omnivo
 
 Then go to settings in the Obsidian note book -- press **Ctrl-P**, then type **Open Settings**. Navigate to the bottom of the left panel. Click on Omnivore. Follow the link on the first line that says https://omnivore.app/settings/api . Create an API Key and then copy and paste it into the field. 
 
-Now when you find a news article you find relevant you can click the Omnivore button on your plugins bar of your browser. If you navigate back to your Obsidian notebook you can then press ctrl-p and begin typing Omnivore. Sync New Changes. 
+Now when you find a news article you find relevant you can click the Omnivore button on your plugins bar of your browser. If you navigate back to your Obsidian notebook you can then press ctrl-p and begin typing Omnivore. Select Sync New Changes. 
 
 The next time you press the double square brackets
 
