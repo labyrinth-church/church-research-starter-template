@@ -1,5 +1,5 @@
 ---
-modified: 2024-03-10T08:57:10-07:00
+modified: 2024-03-10T08:57:53-07:00
 ---
 
 ## Introduction
@@ -59,7 +59,7 @@ First, download this repository. You can do it by clicking the green button on t
 
 Unzip the folder you downloaded somewhere. 
 
-Then you can press the keys **Ctrl-P** on your keyboard and this will open up a context menu. Begin to type in the words "Open Another Vault". The option should appear in the menu. 
+In Obsidian press the keys **Ctrl-P** on your keyboard and open up a context menu. Begin to type in the words "Open Another Vault". The option should appear in the menu. 
 
 The context menu is going to become your best friend. It has all sorts of commands that will speed up our research. In this notebook I have installed a few helper applications. 
 
